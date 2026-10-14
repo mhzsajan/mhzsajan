@@ -1,6 +1,6 @@
-<img align="right" src="assets/profile.jpg" width="200" alt="Sajan Maharjan" />
-
 # Sajan Maharjan
+
+<img align="right" src="assets/profile.jpg" width="200" alt="Sajan Maharjan" />
 
 **Technical Director** — Deepak Bajracharya & The Rhythm Band
 Nepali rock / folk-rock · Kathmandu, Nepal
