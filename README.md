@@ -86,8 +86,6 @@ LTC timecode generator
 | `StageCraft-Graphified` / `-RE` · `HTML` `Python` | Graphical companion and reverse-engineering toolkit for the pipeline. |
 | `switchgod-bazar` / `pickbazar` · `TypeScript` | E-commerce platform work. |
 
-*Also `enhanced-abletonbridge` — the earlier AbletonBridge extension that AbleBridgePlus grew out of.*
-
 ---
 
 ## 🧰 Toolbox
@@ -135,8 +133,6 @@ LTC timecode generator
 Open to working on live-show automation, Ableton tooling, and music tech for
 artists who'd rather not click through a setlist by hand.
 
----
-
-<sub>This repository also serves <a href="https://mhzsajan.github.io/">mhzsajan.github.io</a> —
-the README above is the GitHub profile; <code>index.html</code> is the website.
-Built and maintained by Sajan Maharjan. MIT licensed.</sub>
+<small>The full version of this lives at
+<a href="https://mhzsajan.github.io/">mhzsajan.github.io</a>. This repository
+is the profile only — it has no website in it.</small>
